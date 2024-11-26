@@ -1,0 +1,53 @@
+body{
+    background-color: #F7ECDE;
+}
+
+
+h1{
+    font-family: "Pacifico", cursive;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 60px;
+    font-size: 50px;
+    color: rgb(53, 46, 40);
+
+
+}
+
+
+h2{
+    font-family: "Righteous", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 30px;
+    font-size: 25px;
+    background: linear-gradient(to right, #3EA55B, #B1AB49 70%);
+    background-clip: text;
+    color: transparent;
+  }
+
+
+  .btn{
+    background-color:#d1512d;
+    color: white;
+    cursor: pointer;
+    border: none;
+
+
+  }
+
+  .btn:hover {
+    color: white;
+    background-color: #a73819;
+  }
+  
+.btn-visit {
+  background-color: #94ab1d; 
+
+}
+
+
+  .btn-visit:hover {
+    color: white;
+    background-color: #8A9E23;
+  }
